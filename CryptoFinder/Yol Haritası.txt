@@ -1,0 +1,62 @@
+1. Hangi pariteler?
+
+Sadece USDT ile işlem gören coinler dikkate alınıyor.
+Örn: ZECUSDT, BTCUSDT, ETHUSDT.
+
+2. Ön Kontrol (Guard – Yanıltıcı Piyasa Hareketlerini Eleme)
+
+Amaç: Yatay giden, al-sat yapmaya uygun olmayan coinleri elemek.
+
+Bollinger Bant Genişliği (BB Width):
+Fiyat oynaklığı çok düşükse (dar bantta gidip geliyorsa) coin elenir.
+
+Fiyat Eğimi (Price Slope):
+Son 20 mumda fiyat neredeyse hiç hareket etmemişse (yatay kalmışsa) coin elenir.
+
+SuperTrend Flip Sayısı:
+Trend göstergesi son 20 mumda 3’ten fazla kez yön değiştirdiyse (kararsızsa) coin elenir.
+
+Donchian Üst Bant Yakınlığı:
+Coin yatay gidiyorsa, en azından üst banda yakın değilse elenir.
+
+3. Ana Filtre (Gate – Aday Olabilme Şartları)
+
+Amaç: “Bu coin yatırım için aday olabilir” diyebilmek.
+
+Bir coin aday olabilmek için şu şartların çoğunu sağlamalı:
+
+MACD: Al sinyali vermeli (MACD çizgisi, Signal’in üstünde olmalı).
+
+SuperTrend: Coin yükseliş trendinde olmalı.
+
+Donchian Kanalı: Fiyat, alt banda çok yakın olmamalı.
+
+StochRSI: Yukarı momentum başlamış olmalı (K > D ve 20’nin üzerinde).
+
+BTC’ye Göre Getiri (RS vs BTC): Coin, son 7 günde BTC’den daha iyi performans göstermeli.
+
+Eğer bu şartlardan biri bile sağlanmazsa coin elenir.
+
+4. Skorlama (0–100 Arası Puanlama)
+
+Her başarılı kural puan kazandırır. Böylece en iyi aday en yüksek puanı alır.
+
+MACD (25 puan): Ne kadar güçlü yükseliş sinyali varsa o kadar puan.
+
+SuperTrend (25 puan): Net yükseliş trendindeyse tam puan.
+
+Donchian (10 puan): Fiyat alt banttan uzaksa puan, üst banda yakınsa ekstra puan.
+
+StochRSI (20 puan): Momentum yeni başlıyorsa yüksek puan.
+
+BTC Karşısında Güç (10 puan): BTC’den %10 daha iyi getiri = tam puan.
+
+Toplam puan: 0–100 arası.
+
+5. Son Kontrol (Likidite – Orderbook Depth)
+
+En yüksek puanı alan ilk 100 coin için ekstra kontrol yapılır:
+
+Eğer emir defterinde ±%1 fiyat aralığında en az 100 bin USD alım/satım yoksa, coin elenir.
+
+Böylece alım-satım yaparken likidite sorunu olan coinler listeden çıkar.

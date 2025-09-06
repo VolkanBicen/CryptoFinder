@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeler\\CryptoFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\services\\analyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\services\\analyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\models\\analysiscandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\models\\analysiscandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\net\\binanceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\net\\binanceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\interfaces\\iorderbookprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\interfaces\\iorderbookprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\cryptofinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\cryptofinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|c:\\projeler\\cryptofinder\\cryptofinder\\data\\coingeckoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90C895C-3BC7-407E-BDCC-26170A827C74}|CryptoFinder\\CryptoFinder.csproj|solutionrelative:cryptofinder\\data\\coingeckoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderBookProvider.cs",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Interfaces\\IOrderBookProvider.cs",
+              "RelativeDocumentMoniker": "CryptoFinder\\Interfaces\\IOrderBookProvider.cs",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Interfaces\\IOrderBookProvider.cs",
+              "RelativeToolTip": "CryptoFinder\\Interfaces\\IOrderBookProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:45:37.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalysisCandidate.cs",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Models\\AnalysisCandidate.cs",
+              "RelativeDocumentMoniker": "CryptoFinder\\Models\\AnalysisCandidate.cs",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Models\\AnalysisCandidate.cs",
+              "RelativeToolTip": "CryptoFinder\\Models\\AnalysisCandidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:25:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CryptoFinder",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\CryptoFinder.csproj",
+              "RelativeDocumentMoniker": "CryptoFinder\\CryptoFinder.csproj",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\CryptoFinder.csproj",
+              "RelativeToolTip": "CryptoFinder\\CryptoFinder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T16:58:11.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoinGeckoProvider.cs",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Data\\CoinGeckoProvider.cs",
+              "RelativeDocumentMoniker": "CryptoFinder\\Data\\CoinGeckoProvider.cs",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Data\\CoinGeckoProvider.cs",
+              "RelativeToolTip": "CryptoFinder\\Data\\CoinGeckoProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:35:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinanceProvider.cs",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Net\\BinanceProvider.cs",
+              "RelativeDocumentMoniker": "CryptoFinder\\Net\\BinanceProvider.cs",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Net\\BinanceProvider.cs",
+              "RelativeToolTip": "CryptoFinder\\Net\\BinanceProvider.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADgv00AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:35:09.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoFinder\\Program.cs",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Program.cs",
+              "RelativeToolTip": "CryptoFinder\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowE4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T21:51:34.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalyzerService.cs",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Services\\AnalyzerService.cs",
+              "RelativeDocumentMoniker": "CryptoFinder\\Services\\AnalyzerService.cs",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Services\\AnalyzerService.cs",
+              "RelativeToolTip": "CryptoFinder\\Services\\AnalyzerService.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAiwGcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:46:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Config\\Settings.cs",
+              "RelativeDocumentMoniker": "CryptoFinder\\Config\\Settings.cs",
+              "ToolTip": "C:\\Projeler\\CryptoFinder\\CryptoFinder\\Config\\Settings.cs",
+              "RelativeToolTip": "CryptoFinder\\Config\\Settings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:52:58.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
