@@ -1,0 +1,28 @@
+name: Daily .NET run
+
+on:
+  # Her gün 06:00 Türkiye saati (UTC+3 ≈ 03:00 UTC)
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-app:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore & Build
+        run: |
+          dotnet restore
+          dotnet build --configuration Release
+
+      - name: Run app
+        run: |
+          dotnet run --configuration Release --project ./CryptoFinder.csproj
